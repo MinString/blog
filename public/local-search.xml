@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/blog/2024/02/24/hello-world/"/>
+    <url>/blog/2024/02/24/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>欢迎来到 <a href="https://hexo.io/">Hexo</a>! 这是你第一个文章。 查看 <a href="https://hexo.io/docs/">文档</a> 了解更多信息。 如果你再用的时候出问题了, 你能在这个里面找到答案-&gt; <a href="https://hexo.io/docs/troubleshooting.html">故障 排除</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="快速启动！"><a href="#快速启动！" class="headerlink" title="快速启动！"></a>快速启动！</h2><h3 id="建立一个新文章"><a href="#建立一个新文章" class="headerlink" title="建立一个新文章"></a>建立一个新文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>更多信息: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="部署到远程站点"><a href="#部署到远程站点" class="headerlink" title="部署到远程站点"></a>部署到远程站点</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>建站经历</title>
+    <link href="/blog/2024/02/15/%E5%BB%BA%E7%AB%99%E7%BB%8F%E5%8E%86/"/>
+    <url>/blog/2024/02/15/%E5%BB%BA%E7%AB%99%E7%BB%8F%E5%8E%86/</url>
+    
+    <content type="html"><![CDATA[<p>这个博客站大概算是经历了很长时间才算是好了，经历也是相当神奇，其中有一位大佬<br><a href="https://www.maxlen.link/">QYX</a><br>帮助巨大。</p><h2 id="最初"><a href="#最初" class="headerlink" title="最初"></a>最初</h2><p>我在学校里面学习OI，基本上每天中午都要去机房。</p><p>看到那些洛谷的大佬们写题解，很多用到了blog，还有些不是用洛谷提供的blog，而是用自己建的站。</p><p>我感觉拥有一个自己的blog是一件很酷的事情，就想着搞一搞。</p><h2 id="建站之初"><a href="#建站之初" class="headerlink" title="建站之初"></a>建站之初</h2><p>总结就是不懂瞎搞，看着hexo官方文档一步一弄，最后出现了能打开的blog，很高兴啊。</p><p>然后啊然后，就放过去没管它了。</p><h2 id="GFW😅"><a href="#GFW😅" class="headerlink" title="GFW😅"></a>GFW😅</h2><p>yysy，回到家的时间里，hexo deploy</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>test</title>
+    <link href="/blog/2024/01/13/test/"/>
+    <url>/blog/2024/01/13/test/</url>
+    
+    <content type="html"><![CDATA[<h2 id="这是一个测试awa"><a href="#这是一个测试awa" class="headerlink" title="这是一个测试awa"></a>这是一个测试awa</h2><p>再次测试</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>

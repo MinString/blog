@@ -1,1 +1,1 @@
-hexo server
+.\node_modules\.bin\hexo d
